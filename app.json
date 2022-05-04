@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/RioProjectX/GenerateString",
+  "repository": "https://github.com/johncarter371/10String",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
