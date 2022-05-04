@@ -18,23 +18,23 @@ By @fckualot
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton(text="🏠 Kembali 🏠", callback_data="home")]
+        [InlineKeyboardButton("🔗 Start Generating Session ", callback_data="generate")],
+        [InlineKeyboardButton(text="🏠 home 🏠", callback_data="home")]
     ]
 
     generate_button = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")]
+        [InlineKeyboardButton("🔗 Start Generating Session ", callback_data="generate")]
     ]
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/fckualot")],
+        [InlineKeyboardButton("🔗 Start Generating Session ", callback_data="generate")],
+        [InlineKeyboardButton("✨ Maintaned By ✨", url="https://t.me/MrWickMusic")],
         [
             InlineKeyboardButton("Cara Menggunakan Saya ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/rioprojects")],
+        [InlineKeyboardButton("♥ Info Bot Lain ♥", url="https://t.me/MusicLogsChannel")],
     ]
 
     # Help Message
@@ -55,7 +55,7 @@ By @fckualot
 
 Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @stringriobot
 
-Group Support : [Gabung](https://t.me/riogroupsupport)
+Group Support : [Gabung](https://t.me/MusicLogsChannel)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
